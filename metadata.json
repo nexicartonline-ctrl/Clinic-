@@ -1,0 +1,7 @@
+{
+  "name": "Elite Dental Clinic",
+  "description": "A premium, mobile-first dental clinic website featuring modern design, interactive AI dental assistant, and trust-focused patient care sections.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
