@@ -64,25 +64,25 @@ export const EXPERIENCE_CARDS: CardItem[] = [
     id: 'e1',
     title: 'Experienced Dentists',
     description: 'Over 20 years of combined clinical excellence.',
-    image: 'https://i.ibb.co/HfCcq1Dy/IMG-20260119-WA0082.jpg',
+    image: 'https://i.ibb.co/pvv5kTT6/IMG-20260119-WA0082.jpg',
   },
   {
     id: 'e2',
     title: 'Pain-Free Treatments',
     description: 'Advanced sedation and local anesthesia protocols.',
-    image: 'https://i.ibb.co/jPSPq70g/IMG-20260119-WA0080.jpg',
+    image: 'https://i.ibb.co/219F3YvP/IMG-20260119-WA0080.jpg',
   },
   {
     id: 'e4',
     title: 'Personalized Care',
     description: 'Focused attention from consultation to post-op.',
-    image: 'https://i.ibb.co/ZprdzPhn/d33ee683c7c7d9be1c2167882bc1aa4b.jpg',
+    image: 'https://i.ibb.co/pj6yv42M/d33ee683c7c7d9be1c2167882bc1aa4b.jpg',
   },
   {
     id: 'e5',
     title: 'Consistent Results',
     description: 'Thousands of successful cases and happy smiles.',
-    image: 'https://i.ibb.co/bMBKdm8f/cb3760f63198022f1430cfdc9c28ea44.jpg',
+    image: 'https://i.ibb.co/DPdsMQ4h/cb3760f63198022f1430cfdc9c28ea44.jpg',
   },
 ];
 
@@ -91,19 +91,19 @@ export const ABOUT_CARDS: CardItem[] = [
     id: 'a1',
     title: 'Who We Are',
     description: 'A dedicated team of specialists committed to raising the standard of oral healthcare.',
-    image: 'https://i.ibb.co/PZPs2TyZ/b69dd38b7a3a37faa08b191e7567ece3.jpg',
+    image: 'https://i.ibb.co/1YBw05g3/b69dd38b7a3a37faa08b191e7567ece3.jpg',
   },
   {
     id: 'a2',
     title: 'Our Mission',
     description: 'To provide accessible, high-quality dentistry through innovation and empathy.',
-    image: 'https://i.ibb.co/Nn71v13t/4fb1909778c2bec5afe178f81638f128.jpg',
+    image: 'https://i.ibb.co/5Wnk38fv/4fb1909778c2bec5afe178f81638f128.jpg',
   },
   {
     id: 'a3',
     title: 'Our Vision',
     description: 'Leading the way in digital dentistry and patient-centric clinic environments.',
-    image: 'https://i.ibb.co/ch5ZM0dZ/cf4e95bd61cc0f577f85e03f781ba439.jpg',
+    image: 'https://i.ibb.co/JFgLzFg7/cf4e95bd61cc0f577f85e03f781ba439.jpg',
   },
 ];
 
